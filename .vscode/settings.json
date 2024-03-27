@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/ebenezeri/Desktop/chatapp/linux"
+    "cmake.sourceDirectory": "/home/ebenezeri/Desktop/chatapp/linux",
+    "editor.formatOnSave": true
 }
